@@ -1,0 +1,2 @@
+# DSN
+Naya practice
